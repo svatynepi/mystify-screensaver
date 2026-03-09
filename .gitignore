@@ -1,0 +1,17 @@
+# Xcode
+xcuserdata/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Package Manager
+.build/
+
+# Build output
+build/
+
+# macOS
+.DS_Store
